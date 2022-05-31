@@ -1,2 +1,2 @@
-# rivitscorner
-Hi lol this is my website.
+# My Webiste
+A.K.A. My corner of the internet.
