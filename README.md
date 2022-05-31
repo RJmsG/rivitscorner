@@ -1,2 +1,2 @@
 # rivitscorner
-MY WEBSITE
+Hi lol this is my website.
